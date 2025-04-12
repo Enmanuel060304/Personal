@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Spanish" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Spanish">
+          <value>
+            <map>
+              <entry key="1017729992" value="Comparaciones  " />
+              <entry key="1021317450" value="Arrays multidimensionales  " />
+              <entry key="1047878212" value="Referencias y copia de objetos  " />
+              <entry key="1072185807" value="Asíncrono  " />
+              <entry key="1074272515" value="Encuesta de retroalimentación  " />
+              <entry key="1148132629" value="Objetos integrados: String  " />
+              <entry key="1201328026" value="Set  " />
+              <entry key="1307092230" value="Ámbitos de las variables  " />
+              <entry key="1319191665" value="Parámetros y valor de retorno  " />
+              <entry key="1364910329" value="Operadores  " />
+              <entry key="1378238428" value="Introducción  " />
+              <entry key="1424754646" value="Tipado dinámico y débil  " />
+              <entry key="1448212622" value="Try...catch  " />
+              <entry key="1480350803" value="Introducción a las clases  " />
+              <entry key="1494870513" value="Métodos de Arrays  " />
+              <entry key="1545886145" value="Tipos de datos  " />
+              <entry key="1616755535" value="Introducción a Arrays  " />
+              <entry key="1663798258" value="Constantes  " />
+              <entry key="1668233797" value="Hoisting  " />
+              <entry key="1697516616" value="Operador instanceof  " />
+              <entry key="1717672195" value="Expresiones de función  " />
+              <entry key="1730966623" value="if-else  " />
+              <entry key="1754775377" value="Enfoque ingenuo  " />
+              <entry key="1768205619" value="Break y continue  " />
+              <entry key="1800117102" value="For  " />
+              <entry key="1829552601" value="Operadores aritméticos  " />
+              <entry key="1835186196" value="Herencia prototípica  " />
+              <entry key="186980205" value="Encuesta de retroalimentación  " />
+              <entry key="1871248394" value="Switch  " />
+              <entry key="1878338177" value="Tipos primitivos  " />
+              <entry key="1939729911" value="Copia de objetos complejos  " />
+              <entry key="1949054680" value="Variables  " />
+              <entry key="1968348028" value="Operador typeof  " />
+              <entry key="1988180117" value="Más sobre variables  " />
+              <entry key="1990519048" value="Reglas para nombrar variables  " />
+              <entry key="1994272894" value="Bucles  " />
+              <entry key="2014368127" value="Igualdad débil y estricta  " />
+              <entry key="205886105" value="Callbacks  " />
+              <entry key="2065946615" value="Trabajando con propiedades  " />
+              <entry key="2140607640" value="Más sobre objetos  " />
+              <entry key="2141468040" value="Condicionales  " />
+              <entry key="244790944" value="Operadores aritméticos de cadenas  " />
+              <entry key="291605743" value="Introducción a objetos  " />
+              <entry key="300764257" value="Operador ternario  " />
+              <entry key="313700397" value="Operadores lógicos  " />
+              <entry key="327697758" value="Propiedades y métodos estáticos  " />
+              <entry key="35248019" value="Sobrescritura de métodos  " />
+              <entry key="36717239" value="Acerca del curso  " />
+              <entry key="369357397" value="Encadenamiento de promesas  " />
+              <entry key="370205196" value="Clases  " />
+              <entry key="387399518" value="Creando variables  " />
+              <entry key="412281146" value="Manejo de errores  " />
+              <entry key="42501691" value="Objetos integrados: Number  " />
+              <entry key="431732938" value="Incremento y decremento  " />
+              <entry key="438576453" value="Promise  " />
+              <entry key="451322495" value="For..in  " />
+              <entry key="471668263" value="While  " />
+              <entry key="490486941" value="For..of  " />
+              <entry key="510463344" value="Más sobre Arrays  " />
+              <entry key="521364593" value="Objetos integrados: Date  " />
+              <entry key="521822855" value="Herencia de clases  " />
+              <entry key="526442231" value="Precedencia de operadores  " />
+              <entry key="588941157" value="Funciones flecha  " />
+              <entry key="600227988" value="Operador throw  " />
+              <entry key="629668770" value="Propiedad de datos y propiedad de acceso  " />
+              <entry key="631744237" value="Conversiones implícitas de tipo  " />
+              <entry key="691908585" value="Objetos: Patrones avanzados  " />
+              <entry key="694967736" value="Propiedades y métodos privados y protegidos  " />
+              <entry key="73474222" value="Comparación de objetos  " />
+              <entry key="739391215" value="Bloques condicionales de catch y finally  " />
+              <entry key="828283910" value="Funciones  " />
+              <entry key="837440090" value="Map  " />
+              <entry key="848849040" value="Closures  " />
+              <entry key="852654526" value="Declaración-Inicialización-Uso  " />
+              <entry key="870060537" value="Coerción de objeto a primitivo; palabra clave &quot;this&quot;  " />
+              <entry key="894736638" value="Introducción a las funciones  " />
+              <entry key="927335008" value="Async/await  " />
+              <entry key="971568320" value="Estructuras de datos  " />
+              <entry key="97769178" value="Coerción de tipos  " />
+              <entry key="981629961" value="Conociéndote  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Spanish" value="1074" />
+      </map>
+    </option>
+  </component>
+</project>
