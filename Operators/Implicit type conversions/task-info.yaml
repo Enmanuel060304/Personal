@@ -4,27 +4,27 @@ files:
     visible: true
     placeholders:
       - offset: 20
-        length: 3
+        length: 2
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 20
         initialized_from_dependency: false
         encrypted_possible_answer: mZCQHaR1EO1Wt2xOGzYRPA==
-        selected: false
-        status: Unchecked
-      - offset: 32
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 31
+        length: 2
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 32
         initialized_from_dependency: false
         encrypted_possible_answer: GvjGNl/PAFuzil5Msm5NzA==
-        selected: false
-        status: Unchecked
-      - offset: 44
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 42
+        length: 4
         placeholder_text: ???
         initial_state:
           length: 3
@@ -32,10 +32,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: Pm2nDpVzolIIg8TkMbopPg==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 22:00:47 UTC"
 record: -1

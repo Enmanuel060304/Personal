@@ -4,13 +4,13 @@ let value;
 
 // Assign a number
 value = 42;
-console.log(/* TODO */ value); // "number"
+console.log(typeof value); // "number"
 
 // Assign a string
 value = "Hello, world!";
-console.log(/* TODO */ value); // "string"
+console.log(typeof value); // "string"
 
 // Assign a boolean
 value = true;
-console.log(/* TODO */ value); // "boolean"
+console.log(typeof value); // "boolean"
 

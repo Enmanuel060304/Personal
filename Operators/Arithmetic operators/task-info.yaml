@@ -4,18 +4,21 @@ files:
     visible: true
     placeholders:
       - offset: 46
-        length: 29
+        length: 19
         placeholder_text: // calculate the discriminant
         initial_state:
           length: 29
           offset: 46
         initialized_from_dependency: false
         encrypted_possible_answer: bMGxgbP1dYpOIqPItT9o02hWw6J6oPF84EX6NQYX0d8=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 20:26:47 UTC"
 record: -1

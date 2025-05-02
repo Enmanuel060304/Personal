@@ -3,7 +3,7 @@ files:
   - name: task.js
     visible: true
     placeholders:
-      - offset: 73
+      - offset: 139
         length: 22
         placeholder_text: // Solve the task here
         initial_state:
@@ -11,11 +11,14 @@ files:
           offset: 73
         initialized_from_dependency: false
         encrypted_possible_answer: mgaDKEbZBXGCrilhJyT6tpO2WRzDZ6ObSkBsQmP2ARWksxNp8FvTS9JzGrUmpceDXqjyBDxdqrLBLNK6jyUy8KqBw46RJTwDrjjRI7K6VTEq0wEhOGi3IBauEC1fs5Fk
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 19:29:26 UTC"
 record: -1

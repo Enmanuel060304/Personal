@@ -5,8 +5,16 @@ let book = {
 };
 
 Object.defineProperty(book, "summary", {
-    /* Complete the property to return "Title by Author, published in Year" */
+    get: function () {
+        return this.title + " by " + this.author + ", " + "published in " + this.year;
+    },
+
+    set: function (year) {
+        this.year = year;
+    }
 });
 
 console.log(book); // { title: "1984", author: "George Orwell", year: 1949 }
 console.log(book.summary); // "1984 by George Orwell, published in 1949"
+
+console.log(book.summary);

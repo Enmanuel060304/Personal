@@ -1,12 +1,12 @@
 // Get the current date and time
-let currentDate = /* TODO */
+let currentDate = new Date();
 console.log("Current date and time: " + currentDate);
 
 const date = currentDate;
 // Get the year of the given date
-let year = /* TODO */
+let year = currentDate.getFullYear();
 console.log("Year of the given date: " + year);
 
 // Convert the given date to a human-readable string
-let dateString = /* TODO */
+let dateString = currentDate.toDateString();
 console.log("Human-readable date string: " + dateString);

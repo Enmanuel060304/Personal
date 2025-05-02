@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 51
-        length: 10
+        length: 11
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -13,30 +13,33 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: pRJAJwd1A7z0UlREGt/NXA==
         selected: false
-        status: Unchecked
-      - offset: 188
-        length: 10
+        status: Solved
+      - offset: 189
+        length: 26
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 188
         initialized_from_dependency: false
         encrypted_possible_answer: HFizhqUJQtbKfVYsW6J8GXmQHdOspKS2ilj1vpMLN6A=
-        selected: false
-        status: Unchecked
-      - offset: 318
-        length: 10
+        selected: true
+        status: Solved
+      - offset: 335
+        length: 27
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 318
         initialized_from_dependency: false
         encrypted_possible_answer: VNu+/Z4TczKNpHZKmDiKMlH1ebLARm+gA+NZRSa4TP8=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 18:50:25 UTC"
 record: -1

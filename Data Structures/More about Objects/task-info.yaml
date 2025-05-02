@@ -4,18 +4,21 @@ files:
     visible: true
     placeholders:
       - offset: 14
-        length: 7
+        length: 56
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 14
         initialized_from_dependency: false
         encrypted_possible_answer: joSSSDMZhSgyVRpBL40vQVXj/oZePobMVloaL06jM3+YmqjJGyIXTJrrEVNyQiAuIIpgBXSR61vbOtbDokNh2g==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 18:55:41 UTC"
 record: -1

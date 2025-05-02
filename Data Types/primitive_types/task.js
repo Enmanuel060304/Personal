@@ -5,25 +5,25 @@
 let value;
 
 // Assign a number to `value` and print its type
-value = /* TODO */;
+value = 260304;
 console.log(typeof value); // "number"
 
 // Assign a string to `value` and print its type
-value = /* TODO */;
+value = 'hola mundo';
 console.log(typeof value); // "string"
 
 // Assign a boolean to `value` and print its type
-value = /* TODO */;
+value = true;
 console.log(typeof value); // "boolean"
 
 // Assign `undefined` to `value` and print its type
-value = /* TODO */;
+value = undefined;
 console.log(typeof value); // "undefined"
 
 // Assign `null` to `value` and print its type
-value = /* TODO */;
+value = null;
 console.log(typeof value); // "object"
 
 // Assign a symbol to `value` and print its type
-value = /* TODO */;
+value = Symbol("unico");
 console.log(typeof value); // "symbol"

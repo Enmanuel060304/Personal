@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 13
-        length: 19
+        length: 23
         placeholder_text: 9 * 8 + 12 / 4 + 2;
         initial_state:
           length: 19
@@ -12,11 +12,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: GDDFuHVCfP/hNhJO5vw8ElvvXsHQDO9HhYlZPJQ+bVQ=
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 20:37:49 UTC"
 record: -1

@@ -9,6 +9,7 @@ colors[4] = "pink";      // adds a new element to the array
 console.log(colors);     // [ 'red', 'purple', 'green', 'yellow', 'pink' ]
 
 // Add "brown" to the end of colors array
+colors.push("brown");
 // Add "black" to the end of colors array
-
+colors.push("black");
 console.log(colors);     // should be [ 'red', 'purple', 'green', 'yellow', 'pink', 'brown', 'black' ]

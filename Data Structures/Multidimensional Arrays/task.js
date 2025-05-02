@@ -9,5 +9,7 @@ let matrix = [
 ];
 
 // Replace element 999 with 777
-
+console.log(matrix.length);
+console.log(matrix[6][5]);
+matrix[6][5] = 777;
 console.log(matrix);

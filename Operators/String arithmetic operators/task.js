@@ -4,6 +4,6 @@ let student = {
     university: "Empire State",
 };
 
-signature = // Use the plus operator for string concatenation
+signature = student.name + ", " + student.age + " years old" + ", " + student.university + " University";
 
 console.log(signature);
