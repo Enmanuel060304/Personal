@@ -1,9 +1,12 @@
 function arrayMax(array){
     // save the array[0] element to the maxVal variable
-
+    let maxVal = array[0];
     // compare all elements to maxVal
-
+    for (const item of array){
+        maxVal = item > maxVal ? item : maxVal;
+    }
     // don't forget to return the result
+    return maxVal;
 }
 
 let array = [-2, 6, 14, 4, 50, -11, 1];

@@ -13,8 +13,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: c78SwTEhFtYeEAe8Z6SsOQKt8NqZdm9OaJdPs9N5dzc=
         selected: false
-        status: Unchecked
-      - offset: 87
+        status: Solved
+      - offset: 113
         length: 33
         placeholder_text: // compare all elements to maxVal
         initial_state:
@@ -23,8 +23,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: NPYX7Dg77gwHRmqmYfahZGoLOYLb9WxiqPgUE1BbshzCjS3MnBmbLJ8AxMGXhEn/FdOVXnHA6NuZlt/VBRsX9Q48VYIgJBEU14/RHcaqpAKRwuZb7EDaMWezQKnSwaB9
         selected: false
-        status: Unchecked
-      - offset: 126
+        status: Solved
+      - offset: 236
         length: 36
         placeholder_text: // don't forget to return the result
         initial_state:
@@ -32,11 +32,14 @@ files:
           offset: 126
         initialized_from_dependency: false
         encrypted_possible_answer: hLZB22iQorFGb1QvdC6geA==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 May 2025 00:23:54 UTC"
 record: -1

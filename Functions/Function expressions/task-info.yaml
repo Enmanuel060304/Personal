@@ -3,29 +3,32 @@ files:
   - name: task.js
     visible: true
     placeholders:
-      - offset: 52
-        length: 39
+      - offset: 49
+        length: 56
         placeholder_text: // declare the summarizer variable here
         initial_state:
           length: 39
           offset: 52
         initialized_from_dependency: false
         encrypted_possible_answer: h31ykJ2hjd00/ASv7244DQ==
-        selected: false
-        status: Unchecked
-      - offset: 92
-        length: 55
+        selected: true
+        status: Solved
+      - offset: 89
+        length: 71
         placeholder_text: // assign the value of the `add` variable to summarizer
         initial_state:
           length: 55
           offset: 92
         initialized_from_dependency: false
         encrypted_possible_answer: cuv2D7WzIjeDHeIboJ8sA8+le64dXc8DvDT9aVuTb68=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 23:51:04 UTC"
 record: -1

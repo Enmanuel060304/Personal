@@ -1,8 +1,8 @@
 function makeShowTemperature(isFahrenheit){
 // function expressions are perfect to return a function as a return value
-    if (/* check the temperature format */){
+    if (isFahrenheit){
         return function (degrees){
-            return // generate string for Fahrenheit
+            return `The temperature is: ${degrees * 1.8 + 32} Fahrenheit`;
         }
     } else {
         return function (degrees){

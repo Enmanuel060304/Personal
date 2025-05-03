@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 38
-        length: 23
+        length: 4
         placeholder_text: // initialize with zero
         initial_state:
           length: 23
@@ -12,8 +12,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: KYnoFcCMOzz27VT5MmHVpw==
         selected: false
-        status: Unchecked
-      - offset: 67
+        status: Solved
+      - offset: 48
         length: 77
         placeholder_text: // add the value of each array element to the sum variable using
           a `for` loop
@@ -23,8 +23,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: mMsw1Qj9O/vnKYGX2/7LszapGOqVJliBvDAcKhbNYfNLj6Wi514RV7utIBhgkJ7eOUkj45WMaI3rijH+R6T24LgNKYbWyKfPo+Gk8imoVck=
         selected: false
-        status: Unchecked
-      - offset: 150
+        status: Solved
+      - offset: 210
         length: 36
         placeholder_text: // don't forget to return the result
         initial_state:
@@ -32,11 +32,14 @@ files:
           offset: 150
         initialized_from_dependency: false
         encrypted_possible_answer: 4x1kbh/DqtQ6Ypmn98G1Xg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 May 2025 00:12:57 UTC"
 record: -1

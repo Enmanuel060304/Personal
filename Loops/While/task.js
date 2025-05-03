@@ -1,8 +1,13 @@
 function gcd(a, b) {
-    while (/* add a condition here */) {
+    let residuo = a ;
+    while (b !==  0){
         // implement the Euclidean algorithm
+        residuo = a % b;
+        a = b;
+        b = residuo;
     }
     // return the result
+    return a;
 }
 
 console.log(gcd(10, 5));  // 5

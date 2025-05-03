@@ -3,17 +3,17 @@ files:
   - name: task.js
     visible: true
     placeholders:
-      - offset: 32
-        length: 26
+      - offset: 54
+        length: 7
         placeholder_text: /* add a condition here */
         initial_state:
           length: 26
           offset: 32
         initialized_from_dependency: false
         encrypted_possible_answer: vv/iRodzDOzvtGFamLdl5Q==
-        selected: false
-        status: Unchecked
-      - offset: 70
+        selected: true
+        status: Solved
+      - offset: 73
         length: 36
         placeholder_text: // implement the Euclidean algorithm
         initial_state:
@@ -21,10 +21,10 @@ files:
           offset: 70
         initialized_from_dependency: false
         encrypted_possible_answer: upr4gGeApHpFHtFqVAGIzAXK6GPskFyCoUB1/eLHD9uEIyKmzMcud+WNdUKz24XtcYHo9Nn0HB0f0UtdgHWHbIBNkx6b3KqOJ42QiipHtrfxgiTXqJhILOr3E/lgmZeu
-        selected: false
-        status: Unchecked
-      - offset: 117
-        length: 20
+        selected: true
+        status: Solved
+      - offset: 181
+        length: 34
         placeholder_text: // return the result
         initial_state:
           length: 20
@@ -32,10 +32,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: VpC4KNsTU87QsvxX5ha+mA==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 May 2025 00:10:55 UTC"
 record: -1

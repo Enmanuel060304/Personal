@@ -1,5 +1,7 @@
 function isRightTriangle(side1, side2, side3){
-    return // check the triangle sides
+return side1**2 + side2**2 == side3**2 ||
+    side2**2 + side3**2 == side1**2 ||
+    side1**2 + side3**2 == side2**2;
 }
 
 console.log(isRightTriangle(3, 4, 5));  // true

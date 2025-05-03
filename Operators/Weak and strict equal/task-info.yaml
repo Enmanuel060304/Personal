@@ -4,17 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 8
-        length: 3
+        length: 9
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 8
         initialized_from_dependency: false
         encrypted_possible_answer: HFJovQOcAsRgpwM2O2yh9w==
-        selected: false
-        status: Unchecked
-      - offset: 21
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 27
+        length: 1
         placeholder_text: ???
         initial_state:
           length: 3
@@ -22,9 +22,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
         selected: false
-        status: Unchecked
-      - offset: 34
-        length: 3
+        status: Solved
+      - offset: 38
+        length: 2
         placeholder_text: ???
         initial_state:
           length: 3
@@ -32,10 +32,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: Pm2nDpVzolIIg8TkMbopPg==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 02 May 2025 22:51:57 UTC"
 record: -1

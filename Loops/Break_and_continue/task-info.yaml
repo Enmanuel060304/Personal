@@ -13,9 +13,9 @@ files:
           offset: 32
         initialized_from_dependency: false
         encrypted_possible_answer: JySvYbFZK7U2IdDQqywM+7uc8OaJdxfpN0SlB/fv/PU=
-        selected: false
-        status: Unchecked
-      - offset: 101
+        selected: true
+        status: Solved
+      - offset: 121
         length: 89
         placeholder_text: // find the first negative number for each row and store it
           in the array declared earlier
@@ -25,8 +25,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: OoDNl8Gph91EilvY6Vcoqb/rrVDThNKZ88PGZIKmbukRmUF+qw3NW1XqX54DLIE73Cl/NxSj3zdm6MRkRbSE8AoZmuGMNYy4MzKWp6Rf+k1DljypcuAEcPAyC/+Hw5tVrT3CgTuK5yvv+jrIJUvjLSLUifL9U21wgqRm3iDwGlQmIOmXa8BUt3MdK1RSIP8ONgwLR1pwCNINtJUtO5HcPa+MVdZVV5XLWYKoC1i10GLkQg2Fezh0pGwS0DRzj8Ib
         selected: false
-        status: Unchecked
-      - offset: 196
+        status: Solved
+      - offset: 538
         length: 72
         placeholder_text: // find the maximum among the stored numbers and return it as
           the result
@@ -36,8 +36,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: ZVvhfR6VfbtuZ3ZQajzonAjLmQcw6ZGlk9gWU81aAB8=
         selected: false
-        status: Unchecked
-      - offset: 407
+        status: Solved
+      - offset: 749
         length: 59
         placeholder_text: // you can use the arrayMax function from the previous task
         initial_state:
@@ -45,11 +45,14 @@ files:
           offset: 407
         initialized_from_dependency: false
         encrypted_possible_answer: rId1Vv4IhhKWmrpT5t2CodqS0GKw64q+GhHSs+PmCWES1A+1kbOWkzDQM1w2B1uEewny4HXZY6lCSsjT1RdTJqOnInkl/CqV0HkbiJWpNM2H37CsFnq1aETB8s27mWNC888jrJ1H0xncrCqSdzf8eLzfrUlFa/DXz3sqTLlY810u/dMjAjqahw6VEXSuupN3QNPeJUecr76SDafR2WmtEw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 May 2025 00:38:04 UTC"
 record: -1

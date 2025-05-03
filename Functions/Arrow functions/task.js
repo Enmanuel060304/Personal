@@ -1,4 +1,4 @@
-max = (a, b) => // write an expression
+max = (a, b) => a > b ? a : b;
 
 console.log(max( 15,  25));  // 25
 console.log(max(-15, -25));  // -15
