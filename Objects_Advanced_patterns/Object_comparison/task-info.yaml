@@ -13,9 +13,9 @@ files:
           offset: 345
         initialized_from_dependency: false
         encrypted_possible_answer: ma6QUq9WuivDcBXCrwzE1LFftzPcI65D043AZGR51mgGZTz/PoNCUlme18Ne9Roi0Dfnkxd2TJWxcv9aVg2Wv4OJVL69EwyommRNwkjWc9vibyoXTuqWpCQkBMEFMgsZ
-        selected: false
-        status: Unchecked
-      - offset: 424
+        selected: true
+        status: Solved
+      - offset: 520
         length: 47
         placeholder_text: // Don't forget to return the count as a result
         initial_state:
@@ -24,10 +24,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: lOzas0geEN+vXK+c0ZVBEw==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 04 May 2025 04:14:39 UTC"
 record: -1

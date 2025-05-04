@@ -1,6 +1,6 @@
-let a = ???;
-let b = ???;
-let c = ???;
+let a = undefined;
+let b = 0;
+let c = "";
 
 console.log(!!a == false);  // should be true
 console.log(b === 0);       // should be true

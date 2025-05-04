@@ -12,9 +12,14 @@ class Point{
 class Point3D extends Point{
     constructor(x, y, z) {
         // implement the constructor
+        super(x,y);
+        this.z = z;
     }
 
     // overriding the distanceFromOrigin() method
+    distanceFromOrigin() {
+        return Math.sqrt(this.x**2 + this.y**2 + this.z**2);
+    }
 }
 
 let p1 = new Point3D(3, 4, 12);

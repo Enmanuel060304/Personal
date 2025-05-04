@@ -10,7 +10,11 @@ let registeredCar = {
     numberPlate: "12AB345"
 };
 
-let hiredCar = {/* solve the task here */};
+
+let hiredCar = {
+    __proto__: registeredCar,
+    lessee: "Jacob",
+};
 
 console.log(hiredCar.model);   // Audi A6
 console.log(hiredCar.owner);   // Alex

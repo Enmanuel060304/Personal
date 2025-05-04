@@ -1,6 +1,7 @@
 function createBadge(template, participantName) {
     let result = {};
     // Using Object.assign() solve the task
+    Object.assign(result, template, {name: participantName});
     return result;
 }
 

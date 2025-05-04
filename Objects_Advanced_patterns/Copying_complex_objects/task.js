@@ -1,5 +1,5 @@
 function addToOrder(orders, tShirt) {
-    orders.push(Object.assign({}, tShirt));  // fix it using structuredClone function
+    orders.push(structuredClone(tShirt));  // fix it using structuredClone function
 }
 
 let orders = [];

@@ -22,7 +22,13 @@ let cars = [
 function countCars(cars, car) {
     let count = 0;
     // Iterate over the array elements and increment count in case of equality
+    for (carr of cars){
+        if (_.isEqual(carr, car)){
+            count++;
+        }
+    }
     // Don't forget to return the count as a result
+    return count;
 }
 
 let car = {
