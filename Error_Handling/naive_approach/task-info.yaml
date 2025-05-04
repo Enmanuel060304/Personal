@@ -12,11 +12,14 @@ files:
           offset: 31
         initialized_from_dependency: false
         encrypted_possible_answer: 29Da7H0eC7GEirEpeLQcbEMDGoG9N8iQ84JNdvN1QpkpT9TAzl/9N7ib23Divb2BMsbEdqaT4wL2vA3LxEz2aQVvGIuXjskU52hXtyHkvowGvXO82kX4D7iirKtazHRU
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 04 May 2025 17:07:25 UTC"
 record: -1

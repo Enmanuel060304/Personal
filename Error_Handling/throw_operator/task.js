@@ -1,5 +1,8 @@
 function greeting(person) {
     // Throw an error here
+    if (!("name" in person) || !("surname" in person)){
+        throw new Error("A person must have a name and a surname");
+    }
     return `Hello, ${person.name} ${person.surname}!`;
 }
 

@@ -1,6 +1,12 @@
 function greeting(person) {
    // Check `person` for "name" and "surname" attributes.
-   return `Hello, ${person.name} ${person.surname}!`;
+
+    if ("name" in person && "surname" in person){
+        return `Hello, ${person.name} ${person.surname}!`;
+    }else{
+        return "Hello, stranger!"
+    }
+
 }
 
 let bob = {

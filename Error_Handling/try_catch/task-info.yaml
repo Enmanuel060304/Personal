@@ -4,8 +4,8 @@ files:
   - name: task.js
     visible: true
     placeholders:
-      - offset: 420
-        length: 58
+      - offset: 434
+        length: 62
         placeholder_text: "result += `${e.getDeparture()} - ${e.getDestination()}\\n`;"
         initial_state:
           length: 58
@@ -13,11 +13,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: umyIZPoVnivq7WPOMEjX12G8bFbNQRVOtPdg6Yys3PsHbu2xMBt9KZyoZezE/RgqEh3fgMK8sejBMuD3nX8Y6e/4wZgOwKE7EK1ckpmtLiumzzPnlV6qQc7Kev5zwwQ8eI9OrTD/ynqwSw+h8ySHuRZLLa2Z2rgLbV0pMiK1Nto8DW/phO7IKUEtLcJVIDJSkv/js5YDferiD73b3dToDg==
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 04 May 2025 17:14:55 UTC"
 record: -1
