@@ -1,5 +1,8 @@
 function arrayProcessor(array, transform) {
   // Apply `transform` to each element of the `array`
+    for (let i = 0; i < array.length; i++) {
+        array[i] = transform(array[i]);
+    }
 }
 
 let arr = [1, 2, 3, 4, 5];

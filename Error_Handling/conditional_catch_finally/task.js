@@ -3,6 +3,12 @@ function toStringExplanation(number, radix) {
         return number.toString(radix);
     } catch (e) {
         // Handle RangeError and TypeError differently using the instanceof operator
+        if (e instanceof TypeError) {
+            return "Method is invoked on an object that is not a Number";
+        }
+        if (e instanceof RangeError) {
+            return "Radix is less than 2 or greater than 36";
+        }
     }
 }
 
